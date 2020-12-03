@@ -1,0 +1,11 @@
+.kotak{
+    background:blue;
+    padding:10px;
+}
+.tulisan{
+    color: #f8bbd0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 50pt;
+}
